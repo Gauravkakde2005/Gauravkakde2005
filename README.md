@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 💻 rhcsa student
+- 💻 intermediate in linux and redhat
 
 <!---
 Gauravkakde2005/Gauravkakde2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
