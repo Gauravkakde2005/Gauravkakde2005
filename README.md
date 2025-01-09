@@ -2,7 +2,8 @@
 - 👀 I’m interested in to learn and upload my programs
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... (gauravkakde591@gmail.com)
+- 💻 - C , Cpp , Java , Python
 - 💻 rhcsa student
 - 💻 intermediate in linux and redhat
 
