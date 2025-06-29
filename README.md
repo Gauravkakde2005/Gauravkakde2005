@@ -1,6 +1,6 @@
 # Hi there, I'm Gaurav Kakde! 👋
 
-🚀 **Aspiring Developer | RHCSA Student | AI & Data Science Enthusiast**
+🚀 **Aspiring Developer | RHCSA Certified | AI & Data Science Enthusiast**
 
 ---
 
